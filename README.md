@@ -1,6 +1,16 @@
 # Mathematics 
 
-Some C programs used for math calculations and games.
+Some C interactive programs used for math calculations and games.
+
+Compile:
+```
+gcc program.c -o program
+```
+
+Execute:
+```
+./program
+```
 
 - **ackermann**: Calculates the Ackermann function of two values. See: https://en.wikipedia.org/wiki/Ackermann_function
 - **factorial**: Calculates the factorial of a number.
