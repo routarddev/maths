@@ -1,6 +1,6 @@
 # Mathematics 
 
-Some C interactive programs used for math calculations and games.
+#### Some C interactive programs used for math calculations and games.
 
 Compile:
 ```
@@ -12,6 +12,7 @@ Execute:
 ./program
 ```
 
+### List of programs:
 - **ackermann**: Calculates the Ackermann function of two values. See: https://en.wikipedia.org/wiki/Ackermann_function
 - **factorial**: Calculates the factorial of a number.
 - **maximum**: Simple game that finds the largest of three introduced numbers. 
