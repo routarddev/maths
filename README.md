@@ -17,3 +17,4 @@ Execute:
 - **factorial**: Calculates the factorial of a number.
 - **maximum**: Simple game that finds the largest of three introduced numbers. 
 - **primes**: Checks if a number is prime or not.
+- **tartaglia**: Generates an N rows triangle of Tartaglia. See: https://en.wikipedia.org/wiki/Pascal%27s_triangle
